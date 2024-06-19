@@ -1,0 +1,11 @@
+C:\Users\RedSo\Videos\Bases Persona\Bases Persona\bin\Debug\Bases Persona.exe
+C:\Users\RedSo\Videos\Bases Persona\Bases Persona\bin\Debug\Bases Persona.exe.config
+C:\Users\RedSo\Videos\Bases Persona\Bases Persona\obj\Debug\Bases Persona.csproj.AssemblyReference.cache
+C:\Users\RedSo\Videos\Bases Persona\Bases Persona\obj\Debug\Bases_Persona.Form1.resources
+C:\Users\RedSo\Videos\Bases Persona\Bases Persona\obj\Debug\Bases_Persona.Properties.Resources.resources
+C:\Users\RedSo\Videos\Bases Persona\Bases Persona\obj\Debug\Bases Persona.csproj.GenerateResource.cache
+C:\Users\RedSo\Videos\Bases Persona\Bases Persona\obj\Debug\Bases Persona.csproj.CoreCompileInputs.cache
+C:\Users\RedSo\Videos\Bases Persona\Bases Persona\obj\Debug\Bases Persona.exe
+C:\Users\RedSo\Videos\Bases Persona\Bases Persona\obj\Debug\Bases Persona.pdb
+C:\Users\RedSo\Videos\Bases Persona\Bases Persona\bin\Debug\Bases Persona.pdb
+C:\Users\RedSo\Videos\Bases Persona\Bases Persona\obj\Debug\Bases_Persona.Datos.resources
